@@ -4,7 +4,6 @@ This project performs **sentiment analysis** on user reviews of *Howl’s Moving
 The reviews were processed using the **MeaningCloud Sentiment Analysis API** in **RapidMiner** and classified into **positive, negative, or neutral** categories.  
 
 Two machine learning algorithms were applied — **Naive Bayes** and **Decision Tree** — to evaluate classification accuracy and provide insights into the general audience sentiment.  
-Additionally, the **IMDB benchmark dataset (50,000 reviews)** was referenced for comparative sentiment analysis research. 
 
 ---
 
